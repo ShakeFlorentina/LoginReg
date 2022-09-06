@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257156277359",
+    "project_id": "login-registration-fireb-426e9",
+    "storage_bucket": "login-registration-fireb-426e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257156277359:android:88308608f9e23415ad599a",
+        "android_client_info": {
+          "package_name": "com.example.loginregistrationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257156277359-iulgepothtm9833db3r5s81jis8b8h1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu2ZBend58KFvgPRlhH-0aAx_s8n44GPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257156277359-iulgepothtm9833db3r5s81jis8b8h1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
